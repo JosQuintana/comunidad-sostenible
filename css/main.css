@@ -1,0 +1,20 @@
+/**{
+    outline: 1px solid rgb(207, 24, 24);
+}*/
+
+.icono-menu{
+    width:120px;
+    height:100px;
+}
+
+.header {
+    background: url(../img/semilla.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 40rem;
+  }
+
+.metodologia{
+    background: url(../img/fondo.jpg) no-repeat center;
+    background-size: cover;
+    background-position: top;
+}
